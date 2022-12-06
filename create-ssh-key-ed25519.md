@@ -31,4 +31,5 @@ The key's randomart image is:
 |           o+ o. |
 +----[SHA256]-----+
 ```
-5. Setelah itu copy isi dari hasil file id_ed25519.pub
+5. Selesai, hasil akan tersimpan di folder %USER% .ssh/
+6. Setelah itu copy isi dari hasil file id_ed25519.pub bisa menggunakan notepad untuk membukanya.
