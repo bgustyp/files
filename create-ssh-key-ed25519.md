@@ -1,4 +1,4 @@
-### Cara Membuat SSH Key ed25519
+### Cara Membuat SSH Key ed25519 untuk Windows
 1. Masuk cmd/powershell 
 2. Lalu ketikan ssh-keygen -t ed25519 -C "user@mail.com"
 
@@ -14,7 +14,7 @@ Enter same passphrase again:
 ```
 4. Setelah itu akan muncul seperti di bawah
 ```console
-Your identification has been saved in id_ed25519.
+Your identification has been saved in id_ed25519
 Your public key has been saved in id_ed25519.pub.
 The key fingerprint is:
 SHA256:aXwULd8ZL+fbGidV/4pGH9fplAbZCabAUAT8fy4bYH8 user@mail.com
