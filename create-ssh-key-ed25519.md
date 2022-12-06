@@ -3,7 +3,7 @@
 2. Lalu ketikan ssh-keygen -t ed25519 -C "user@mail.com"
 
 ```console
-$ssh-keygen -t ed25519 -C "user@mail.com"
+user@pc:~$ ssh-keygen -t ed25519 -C "user@mail.com"
 Generating public/private ed25519 key pair.
 Enter file in which to save the key (.ssh/id_ed25519):
 ```
