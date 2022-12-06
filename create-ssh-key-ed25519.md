@@ -2,18 +2,18 @@
 1. Masuk cmd/powershell 
 2. Lalu ketikan ssh-keygen -t ed25519 -C "user@mail.com"
 
-```sh
+```console
 $ssh-keygen -t ed25519 -C "user@mail.com"
 Generating public/private ed25519 key pair.
 Enter file in which to save the key (.ssh/id_ed25519):
 ```
 3. Jika muncul seperti di atas lalu enter, lalu akan muncul pembuatan password untuk SSH Key yang akan di buat. (Jika tidak ingin menggunakan password tekan enter saja)
-```sh
+```console
 Enter passphrase (empty for no passphrase):
 Enter same passphrase again:
 ```
 4. Setelah itu akan muncul seperti di bawah
-```sh
+```console
 Your identification has been saved in id_ed25519.
 Your public key has been saved in id_ed25519.pub.
 The key fingerprint is:
