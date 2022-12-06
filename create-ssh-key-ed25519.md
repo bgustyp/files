@@ -33,3 +33,5 @@ The key's randomart image is:
 ```
 5. Selesai, hasil akan tersimpan di folder %USER% .ssh/
 6. Setelah itu copy isi dari hasil file id_ed25519.pub bisa menggunakan notepad untuk membukanya.
+
+NOTE: Jika ada masalah tidak bisa login dengan SSH Key coba cek file id_ed25519.pub lalu cek properti pastikan akses everyone tidak termasuk.
